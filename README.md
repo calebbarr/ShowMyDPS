@@ -1,0 +1,1 @@
+This WoW addon shows your own DPS in a small window that you can place next to your player's icon.  It was completely based off of Zergrael's addon (http://www.curse.com/addons/wow/show-my-dps), but updated for MoP and does not track HPS.

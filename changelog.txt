@@ -1,0 +1,81 @@
+>> 1.0 >> 2/13/2014
+Completely hacked-and-slashed, to be compatible with MOP and show only DPS and do nothing else.
+
+>> 0.4.0 >> 03/04/2011
+
+* Added combat duration toggle
+* Libs update
+* Added compatibility with 4.1 combatlog
+* Known issue : Recount ignores inactive time in dps calculation. SMD doesn't.
+SMD dps may be lower than the recount one.
+
+>> 0.3.3 >> 10/28/2010
+
+* BugFix : Not counting after combat damages
+* Bug : Last hit messes dps
+
+>> 0.3.2 >> 10/28/2010
+
+* BugFix : One hit fights
+* BugFix : Combat start detection
+* Heal meter is back
+* No absorb detection
+
+>> 0.3.1 >> 10/27/2010
+
+* BugFix : 1.000k dmg fix
+
+>> 0.3.0 >> 10/26/2010
+
+* Back to DPS meter only
+* Improved Damage detection
+* Nearly perfect Recount imitation
+
+>> 0.2.5 >> 10/26/2010
+
+* BugFix : Empty frame
+
+>> 0.2.4 >> 10/25/2010
+
+* Toc bump for 4.0.1
+
+>> 0.2.3 >> 10/01/2010
+
+* BugFix : just a stupid '=' Damn..
+
+>> 0.2.2 >> 09/30/2010
+
+* Added : Frame position reset command
+
+>> 0.2.2 >> 08/30/2010
+
+* BugFix : Out of combat heals / damages
+
+* Added : Damage / heals toggle notification
+* Added : Out of combat hide option
+* Added : Needed libs (Ace3)
+
+>> 0.2 >> 08/30/2010
+
+* First beta
+* Need some reports
+
+* BugFix : Great accuracy with damage
+* BugFix : Improved handle of pets and exterior sources of DPS
+
+* Healing is still buggy
+* KnowBug : Out of combat heals makes the HPSmeter fool
+* BugFix : Handle of pets heals (yup, licking wounds is sort of heal)
+
+>> 0.1b >> 08/03/2010
+
+* Multiples minor bugfixes because I developped this addon only on lvl 6 pigs in durotar ;o
+
+* BugFix : Handle of environnemental damage
+* BugFix : Handle of pets
+* BugFix : Refresh frame when switching between heal and damage
+
+>> 0.1a >> 08/01/2010
+
+* First alpha of ShowMyDPS
+* Awesome idea huh ?

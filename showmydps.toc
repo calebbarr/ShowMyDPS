@@ -1,0 +1,17 @@
+## Interface: 40000
+## Title: ShowMyDPS
+## Author: Caleb Barr
+## Version: 1.0
+## Note: Completely based on Zergrael's ShowMyDPS, just pared down and made to work with MOP
+## eMail: caleb@eml.cc
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## OptionalDeps: Ace3
+## SavedVariables: SMDdb
+
+libs\LibStub\LibStub.lua
+libs\AceEvent-3.0\AceEvent-3.0.xml
+libs\AceConsole-3.0\AceConsole-3.0.xml
+
+ShowMyDPS.lua
+
